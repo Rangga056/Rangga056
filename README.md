@@ -1,9 +1,16 @@
 <h1> Hey there! I'm Rangga.</h1>
 
-<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<h2>👦 &nbsp;About Me </h2>
 
-- 🤔 &nbsp; NextJS 14,
-- 🤖 &nbsp; Go lang.
+- 👨🏻‍💻 &nbsp; Fullstack Web Developer
+- 🧑‍🏫 &nbsp; Major in Information System at Universitas Nasional
+
+
+<h2>Current learning interest</h2>
+
+- 🤖 &nbsp; NextJS 14 and Typescript,
+- 🤔 &nbsp; Go lang,
+- 🙇🏻 &nbsp; Python.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
