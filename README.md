@@ -47,12 +47,8 @@
   <br/>
 
 <a href="https://github.com/Rangga056">
-  <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/?username=Rangga056&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-  
-  <img height="180em" src="https://github-readme-stats-1bae.vercel.app/api/top-langs/?username=Rangga056&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
-  <br/>
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=onedark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rangga056&theme=monokai" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rangga056&theme=monokai" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight" /> 
 </a>
