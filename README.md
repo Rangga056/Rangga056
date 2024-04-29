@@ -47,8 +47,11 @@
   <br/>
 
 <a href="https://github.com/Rangga056">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight" /> 
+  <img height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <br/>
+  <img width="1000em" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
+  <br/>
+  <img width="1000em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <br/>
+  <img height="240em" width="800em" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=5" /> 
 </a>
