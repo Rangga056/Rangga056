@@ -19,7 +19,7 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- ## 🌐 &nbsp; Languages
+- ## 🌐 &nbsp; Languages & Frameworks
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
