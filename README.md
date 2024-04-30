@@ -19,7 +19,7 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-- 🌐 &nbsp;
+- ## 🌐 &nbsp; Languages
   ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
   ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
   ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
@@ -30,28 +30,41 @@
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
   ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
-- 🛢 &nbsp;
+- ## 🛢 &nbsp;Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
   ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
   ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=flat)
   ![Supabase Badge](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff&style=flat)
-- ⚙️ &nbsp;
+- ## ⚙️ &nbsp; Tools & Library
   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
   ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-- 🔧 &nbsp;
-  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-  ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
   ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
+  ![Clerk Badge](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=fff&style=flat)
+  ![shadcn/ui Badge](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=flat)![npm Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff&style=flat)
+  ![Prisma Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=flat)
+  ![Zod Badge](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=flat)
+  ![Vercel Badge](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat)
+  ![Stripe Badge](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=fff&style=flat)
+  ![Framer Badge](https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=flat)
+- ## 🔧 &nbsp; Code Editor / IDE
+  ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
+  ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
+  ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
+- ## 💻 &nbsp; OS
+  ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+  ![Lubuntu Badge](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=fff&style=flat)
+
   <br/>
 
+# 📊 Git Stats
 <a href="https://github.com/Rangga056">
-  <img height="180em" width="1000em" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <br/>
-  <img width="1000em" height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img width="1000em" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
   <br/>
-  <img height="240em" width="800em" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=5" /> 
+  <img width="400" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=3&row=2" /> 
 </a>
