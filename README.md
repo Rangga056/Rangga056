@@ -15,7 +15,6 @@
 
 - 🤖 &nbsp; NextJS 14 and Typescript,
 - 🤔 &nbsp; Go lang,
-- 🙇🏻 &nbsp; Python.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
@@ -53,12 +52,14 @@
   ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
   ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 - ## 💻 &nbsp; OS
+
   ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
   ![Lubuntu Badge](https://img.shields.io/badge/Lubuntu-0068C8?logo=lubuntu&logoColor=fff&style=flat)
 
   <br/>
 
 # 📊 Git Stats
+
 <a href="https://github.com/Rangga056">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
   <br/>
