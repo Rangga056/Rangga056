@@ -1,9 +1,3 @@
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Rangga056&theme=road_trip&include_all_commits=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Rangga056&screen_effect=true&theme=road_trip&include_all_commits=true">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Rangga056&theme=road_trip&include_all_commits=true">
-</picture>
-
 <h1> Hey there! I'm Rangga.</h1>
 
 <h2>👦 &nbsp;About Me </h2>
@@ -14,7 +8,7 @@
 <h2>Current learning interest</h2>
 
 - 🤖 &nbsp; NextJS 14 and Typescript,
-- 🤔 &nbsp; Go lang,
+- 🤔 &nbsp; Go lang and Gin,
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
@@ -29,6 +23,7 @@
   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
   ![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
+  ![Gin Badge](https://img.shields.io/badge/Gin-008ECF?logo=gin&logoColor=fff&style=flat)
 - ## 🛢 &nbsp;Databases
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
@@ -61,11 +56,7 @@
 # 📊 Git Stats
 
 <a href="https://github.com/Rangga056">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <br/>
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
   <br/>
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
-  <br/>
-  <img width="400" src="https://github-profile-trophy.vercel.app/?username=Rangga056&theme=tokyonight&no-frame=true&column=3&row=2" /> 
 </a>
