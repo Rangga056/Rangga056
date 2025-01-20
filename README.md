@@ -7,8 +7,8 @@
 
 <h2>Current learning interest</h2>
 
-- 🤖 &nbsp; NextJS 14 and Typescript,
-- 🤔 &nbsp; Go lang and Gin,
+- 🤖 &nbsp; NextJS 15 and Typescript,
+- 🤔 &nbsp; Go lang and C++,
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
