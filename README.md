@@ -58,5 +58,5 @@
 <a href="https://github.com/Rangga056">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Rangga056&theme=tokyonight&hide_border=true"/>
   <br/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangga056&hide=jupyter%20notebook&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
