@@ -2,13 +2,13 @@
 
 <h2>👦 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Fullstack Web Developer
+- 👨🏻‍💻 &nbsp; Fullstack Developer
 - 🧑‍🏫 &nbsp; Major in Information System at Universitas Nasional
 
 <h2>Current learning interest</h2>
 
-- 🤖 &nbsp; NextJS 15 and Typescript,
-- 🤔 &nbsp; Go lang,
+- 🤖 &nbsp; Java,
+- 🤔 &nbsp; AI Agents,
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
